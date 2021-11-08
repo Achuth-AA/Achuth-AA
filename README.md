@@ -8,7 +8,7 @@
 ### I'm [Achuth Dintakurthi]() A Person who never ever give up. .
 - 📫 Ping me *dintakurthiachuth@gmail.com (or) achuthaiml@gmail.com*
 > *Master in Flutter, AI Engineer , Interested in Quantum Computation and Space Science*
-- 🔭 I’m currently working on my Startup *'AA Studioz'*
+- 🔭 Building my Self
 - 🌱 I’m currently preparing for *GATE*
 - ⚡ Not a Fun fact: *Be a Jack of all trades but master in one*
 
