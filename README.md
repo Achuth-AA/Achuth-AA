@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Achuth Dintakurthi</h1>
-<h3 align="center">Founder of AA Studioz</h3>
+<h3 align="center">Software Developer 👨🏻‍💻</h3>
 <hr />
 <img align="right" alt="Coding" width="250" height="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
