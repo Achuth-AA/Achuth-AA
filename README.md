@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Achuth Dintakurthi</h1>
-<h3 align="center">Software Developer 👨🏻‍💻</h3>
+<h3 align="center">I'm  an Engineer </h3>
 <hr />
 <img align="right" alt="Coding" width="250" height="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 
 ### I'm [Achuth Dintakurthi]() A Person who never ever give up. .
-- 📫 Ping me *dintakurthiachuth@gmail.com (or) achuthaiml@gmail.com*
-> *Web developer , AI Engineer , Deep Learning Researcher*
+- 📫 Ping me *dintakurthiachuth@gmail.com (or) dintakurthiachuth01@gmail.com*
+> *Web/App developer , AI Engineer , Deep Learning Researcher*
 - 🔭 Building my Self
-- 🌱 I’m currently preparing for *GATE*
+- 🌱 i always believe imagination is more important than knowledge 
 - ⚡ Not a Fun fact: *Be a Jack of all trades but master in one*
 
 
