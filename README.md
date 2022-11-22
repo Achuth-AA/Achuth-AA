@@ -13,7 +13,6 @@
 - 📫 Ping me *dintakurthiachuth@gmail.com (or) dintakurthiachuth01@gmail.com*
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Food Searcher].
 - 🌱 I’m currently learning more on Deep Learning.
 - 💬 Ask me about Data Science or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
