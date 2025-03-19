@@ -6,4 +6,4 @@
 
 if you guys want to know who am i visit 
 
-Oops wait some time while i deply myself into internet
+Oops wait some time while i deploy myself into internet
