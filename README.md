@@ -30,10 +30,9 @@ $ Personal Profile:
   name: "Achuth Dintakurthi"
   role: "Data Scientist & Full Stack Developer"
   philosophy: "Information is Everything"
-  passion: "Creating Beautiful, Data-Driven User Experiences"
   website: "https://techwithachuth.com"
   location: "127.0.0.1"
-  focus: ["Machine Learning", "Beautiful UIs", "Scalable Systems"]
+  focus: DATA
 ```
 
 ```bash
@@ -47,7 +46,7 @@ $ Personal Profile:
     PHILOSOPHY: INFORMATION IS EVERYTHING
     
     As a Data Scientist & Full Stack Developer:
-    - I believe data tells stories that need beautiful interfaces
+    - I believe data tells stories 
     - Every dataset hides insights waiting to be visualized
     - Great UX makes complex data accessible to everyone
     - The best apps combine intelligent backends with stunning frontends
@@ -105,8 +104,8 @@ const fullStackDeveloper = {
   },
   
   backend: {
-    languages: ['Node.js', 'Python', 'Go', 'Java'],
-    frameworks: ['Express', 'FastAPI', 'Django', 'Spring Boot'],
+    languages: ['Node.js', 'Python', 'Go', 'C'],
+    frameworks: ['Express', 'FastAPI', 'Django'],
     databases: ['PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch'],
     architecture: ['Microservices', 'REST APIs', 'GraphQL', 'WebSockets']
   },
@@ -133,26 +132,14 @@ const fullStackDeveloper = {
 
 /* My Design Stack */
 .tools {
-  design: Figma, Adobe XD, Sketch;
-  prototyping: Framer, Principle, ProtoPie;
+  design: Figma, LucidSpark;
+  prototyping: Framer, ProtoPie;
   collaboration: Miro, FigJam, Whimsical;
   handoff: Zeplin, Avocode;
 }
 ```
 
-```bash
-┌──(achuth㉿dev)-[~]
-└─$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
-```
 
-```
-NAMES                STATUS              PORTS
-ml-api-server        Up 2 hours          0.0.0.0:5000->5000/tcp
-react-frontend       Up 2 hours          0.0.0.0:3000->3000/tcp
-postgres-db          Up 3 hours          0.0.0.0:5432->5432/tcp
-redis-cache          Up 3 hours          0.0.0.0:6379->6379/tcp
-jupyter-lab          Up 1 hour           0.0.0.0:8888->8888/tcp
-```
 
 ## 📊 GitHub Analytics
 
@@ -171,17 +158,6 @@ jupyter-lab          Up 1 hour           0.0.0.0:8888->8888/tcp
 └─$ cat /projects/showcase.json
 ```
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🤖 **ML Dashboard** | Python, TensorFlow, React, D3.js | Real-time ML model monitoring with beautiful visualizations |
-| 📊 **Data Pipeline** | Apache Airflow, PySpark, PostgreSQL | ETL pipeline processing 1TB+ daily with automated reporting |
-| 🎨 **Design System** | React, TypeScript, Storybook | Component library with 50+ reusable UI components |
-| 📱 **Mobile Analytics** | React Native, FastAPI, MongoDB | Cross-platform app with real-time data analytics |
-| 🌐 **Portfolio Site** | Next.js, Three.js, Framer Motion | Interactive 3D portfolio with smooth animations |
 
 </div>
 
@@ -223,8 +199,7 @@ jupyter-lab          Up 1 hour           0.0.0.0:8888->8888/tcp
 
 [![Website](https://img.shields.io/badge/Website-techwithachuth.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techwithachuth.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Achuth--AA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Achuth-AA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achuth)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dintakurthiachuth@gmail.com)
 
 </div>
 
@@ -236,11 +211,7 @@ jupyter-lab          Up 1 hour           0.0.0.0:8888->8888/tcp
 ## 🎯 Currently Working On
 
 ```yaml
-current_focus:
-  - Building: "AI-powered data visualization platform"
-  - Learning: "Advanced Three.js for 3D data viz"
-  - Exploring: "WebAssembly for high-performance web apps"
-  - Contributing: "Open source ML tools and React libraries"
+Secret
 ```
 
 ```bash
